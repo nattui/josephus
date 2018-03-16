@@ -1,2 +1,2 @@
 # Josephus-Problem
-Josephus Permutation: Circular Linked List Java
+Josephus Permutation Using Circular Linked List (Java)
